@@ -1,0 +1,16 @@
+{
+  "name": "assad-id-auth-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --outFile ./dist/js/main.js -w -p ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "express": "^4.17.1"
+  }
+}
